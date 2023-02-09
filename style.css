@@ -1,0 +1,14 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+.vida_no_campus{
+    border: 1px solid lightgray ;
+}
+.vida_no_campus img{
+ width:100%;
+}
+.vida_no_campus h5,.vida_no_campus p{
+    margin: 20px; 
+}
